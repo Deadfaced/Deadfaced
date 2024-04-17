@@ -27,15 +27,9 @@ What I enjoy:
 
 <p>
 
-<a href="https://www.linkedin.com/in/bernardo-teixeira-428220182/" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a> 
-<a href="mailto:btteixeira.bt@gmail.com" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-</a> 
-<a href="https://discordapp.com/users/450674464980729868" style="text-decoration: none">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-</a> 
+<a href="https://www.linkedin.com/in/bernardo-teixeira-428220182/" style="text-decoration: none"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:btteixeira.bt@gmail.com" style="text-decoration: none"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://discordapp.com/users/450674464980729868" style="text-decoration: none"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
 </p>
 
