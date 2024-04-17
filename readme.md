@@ -25,13 +25,13 @@ What I enjoy:
 
 # COME SAY HI
 
-<a href="https://www.linkedin.com/in/bernardo-teixeira-428220182/">
+<a href="https://www.linkedin.com/in/bernardo-teixeira-428220182/" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a> 
-<a href="mailto:btteixeira.bt@gmail.com">
+<a href="mailto:btteixeira.bt@gmail.com" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=gmail"/>
 </a> 
-<a href="https://discordapp.com/users/450674464980729868">
+<a href="https://discordapp.com/users/450674464980729868" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=discord"/>
 </a> 
 
