@@ -18,7 +18,7 @@ What I enjoy:
   - Music (Eminem, Linkin Park, Heavy Metal, Japanese City Pop, Portuguese Hip Hop);
   - Gym;
   - Japanese Culture;
-  - Soccer;
+  - Soccer and playing sports;
   - Learning in general.
 
 <div align="center">
@@ -45,54 +45,57 @@ What I enjoy:
 
 ##  Languages
 
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=cs)
-![PHP](https://skillicons.dev/icons?i=php)
-![Java](https://skillicons.dev/icons?i=java)  
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![Markdown](https://skillicons.dev/icons?i=md)
+[![C](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)  
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)  
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.typescriptlang.org/)
 
 ## Frameworks, platforms and libraries
 
-![.Net](https://skillicons.dev/icons?i=net)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Vue.js](https://skillicons.dev/icons?i=vue)
-![Angular](https://skillicons.dev/icons?i=angular)  
-![NPM](https://skillicons.dev/icons?i=npm)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)  
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![SASS](https://skillicons.dev/icons?i=sass)
+[![.Net](https://skillicons.dev/icons?i=net)](https://dotnet.microsoft.com/en-us/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)  
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)  
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
 ## Hosting
 
-![Firebase](https://skillicons.dev/icons?i=firebase)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
 ## IDEs/Editors
 
-![CodePen](https://skillicons.dev/icons?i=codepen)
-![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
-![Vim](https://skillicons.dev/icons?i=vim)
+[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/)
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
 
 ## Operating Systems
 
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Windows](https://skillicons.dev/icons?i=windows)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
+[![Debian](https://skillicons.dev/icons?i=debian)](https://debian.org/)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows?r=1)
 
 ## Version Control
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 ## Other
 
-![Postman](https://skillicons.dev/icons?i=postman)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Jira](https://skillicons.dev/icons?i=jira)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Jira](https://skillicons.dev/icons?i=jira)](https://www.atlassian.com/software/jira)
+
+Made with [Skill Icons](https://github.com/tandpfun/skill-icons#readme)
 
 ---
 
@@ -123,7 +126,7 @@ What I enjoy:
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deadfaced&repo=Angular-learning-projects&theme=tokyonight)](https://github.com/Deadfaced/Angular-learning-projects)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deadfaced&repo=Angular-learning-projects&theme=tokyonight)](https://github.com/Deadfaced/Angular-learning-projects/tree/main/personalProjects/jpPractice)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deadfaced&repo=VueProject&theme=tokyonight)](https://github.com/Deadfaced/VueProject)
 
 <br>
